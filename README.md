@@ -1,4 +1,4 @@
-# demo_task
+# Riverpod Demo
 
 A new Flutter project.
 
